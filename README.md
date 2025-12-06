@@ -45,6 +45,20 @@ Visualized transaction type distributions
 
 Mapped categorical variables for modeling
 
+![Bar Chart](./images/Barplot.png)
+
+![Bar Chart](./images/Barplotresults.png)
+
+## Visualizing the most occurring types of fraud.
+
+![Cart](./images/Cart.png)
+
+## Classification and regression tree
+
+![LOG](./images/LOG.png)
+
+## Confusion Matrix on Logistic Regression
+
 # Machine Learning Models Tested
 
 Multiple algorithms were evaluated to detect fraudulent transactions:
